@@ -6,7 +6,7 @@ lead: Discover your E-Series storage systems through BlueXP to get a complete vi
 summary: "Discover your E-Series storage systems through BlueXP to get a complete view of data across your hybrid multicloud."
 ---
 
-= E-Series documentation
+= E-Series management using BlueXP
 :hardbreaks:
 :nofooter:
 :icons: font

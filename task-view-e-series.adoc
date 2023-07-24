@@ -16,7 +16,9 @@ After you discover your E-Series systems, you can view details about capacity di
 
 .Steps
 
-. From the Canvas, double-click the name of the E-Series working environment that you want to view.
+. From the navigation menu, select *Storage > Canvas*.
+
+. On the Canvas page, select the E-Series working environment that you want to view.
 
 . Select any of the tabs to view more details about your E-Series system:
 +

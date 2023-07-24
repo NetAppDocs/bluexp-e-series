@@ -28,7 +28,7 @@ https://docs.netapp.com/us-en/bluexp-setup-admin/concept-connectors.html[Learn m
 
 . From the BlueXP navigation menu, select *Storage > Canvas*.
 
-. From the Canvas, click *Add Working Environment* and select *On-Premises*.
+. From the Canvas, select *Add Working Environment* and select *On-Premises*.
 
 . Next to *E-Series*, select *Discover*.
 
@@ -36,7 +36,7 @@ https://docs.netapp.com/us-en/bluexp-setup-admin/concept-connectors.html[Learn m
 +
 Refer to the link above for more details.
 
-. On the _E-Series Cluster Details_ page, enter the domain name or IP address of the storage system controller, admin credentials for the system, and then click *Add*.
+. On the _E-Series Cluster Details_ page, enter the domain name or IP address of the storage system controller, admin credentials for the system, and then select *Add*.
 +
 image:screenshot-cluster-details.png[A screenshot that shows the E-Series Cluster Details page where you're prompted to enter the domain name or IP address and the admin user name and password.]
 

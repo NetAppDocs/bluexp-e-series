@@ -12,6 +12,7 @@ summary: After you discover your E-Series systems, you can view details about ca
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
 After you discover your E-Series systems, you can view details about capacity distribution, volumes, and hosts.
 
 .Steps

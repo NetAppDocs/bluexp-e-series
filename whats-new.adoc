@@ -20,5 +20,5 @@ Learn what's new with managing E-Series systems in BlueXP.
 
 === Support for E-Series
 
-You can now discover your E-Series storage systems directly from BlueXP. Discovering E-Series systems provides you with a complete view of data across your hybrid multicloud.
+You can now discover your E-Series systems directly from BlueXP. Discovering E-Series systems provides you with a complete view of data across your hybrid multicloud.
 // end::whats-new[]

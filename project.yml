@@ -23,7 +23,7 @@ sidebar:
       entries:
         - title: View your E-Series systems
           url: /task-view-e-series.html
-        - title: Remove E-Series systems
+        - title: Remove a working environment
           url: /task-remove-e-series.html
     - title: Knowledge and support
       entries:

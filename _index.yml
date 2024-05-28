@@ -1,0 +1,28 @@
+indexpage:
+  title: E-Series management using BlueXP
+  lead: Discover your E-Series systems from BlueXP to get a complete view of data across your hybrid multicloud.
+  summary: Discover your E-Series systems from BlueXP to get a complete view of data across your hybrid multicloud..
+  keywords: bluexp-family, documentation, e-series, cloud
+  tiles:
+    - title: Get started
+      links:
+        - title: Discover E-Series systems
+          url: /task-discover-e-series.html
+    - title: Manage E-Series systems
+      links:
+        - title: View your E-Series systems
+          url: /task-view-e-series.html
+        - title: Remove a working environment
+          url: /task-remove-e-series.html
+    - title: Related links
+      links:
+        - title: E-Series documentation for management outside of BlueXP
+          url: https://docs.netapp.com/us-en/e-series-family/
+    - title: Blogs & community
+      links:
+        - title: NetApp Community
+          url: https://community.netapp.com/t5/Cloud-Data-Services/ct-p/CDS
+        - title: BlueXP blog
+          url: https://cloud.netapp.com/blog
+        - title: Cloud webinars
+          url: https://cloud.netapp.com/events

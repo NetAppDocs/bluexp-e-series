@@ -15,10 +15,6 @@ summary: Learn what's new with managing E-Series systems in BlueXP.
 [.lead]
 Learn what's new with managing E-Series systems in BlueXP.
 
-// tag::whats-new[]
 == 18 September 2022
 
-=== Support for E-Series
-
-You can now discover your E-Series systems directly from BlueXP. Discovering E-Series systems provides you with a complete view of data across your hybrid multicloud.
-// end::whats-new[]
+include::_whatsnew/2022-09-18.adoc[]

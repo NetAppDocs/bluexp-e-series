@@ -15,6 +15,8 @@ summary: Learn what's new with managing E-Series systems in BlueXP.
 [.lead]
 Learn what's new with managing E-Series systems in BlueXP.
 
+// tag::whats-new[]
 == 18 September 2022
 
 include::_whatsnew/2022-09-18.adoc[]
+// end::whats-new[]

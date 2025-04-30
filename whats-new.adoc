@@ -18,7 +18,7 @@ Learn what's new with managing E-Series systems in BlueXP.
 // tag::whats-new[]
 == 12 May 2025
 
-include::_whatsnew/2022-05-12.adoc[]
+include::_whatsnew/2025-05-12.adoc[]
 
 == 18 September 2022
 

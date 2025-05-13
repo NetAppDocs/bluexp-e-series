@@ -16,7 +16,7 @@ summary: BlueXP can discover the E-Series systems in your on-premises environmen
 BlueXP can discover the E-Series systems in your on-premises environment. Adding E-Series systems to BlueXP enables you to get a complete view of the data across your hybrid multicloud.
 
 
-.Required BlueXP role:
+.Required BlueXP role
 Organization admin, Folder or project admin, Storage admin, or System health specialist. link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html[Learn about BlueXP access roles.^]
 
 

@@ -15,7 +15,7 @@ summary: After you discover your E-Series systems, you can view details about ca
 [.lead]
 After you discover your E-Series systems, you can view details about capacity distribution, volumes, and hosts.
 
-.Required BlueXP role:
+.Required BlueXP role
 Organization admin, Folder or project admin, Storage admin, or System health specialist. link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html[Learn about BlueXP access roles.^]
 
 .Steps

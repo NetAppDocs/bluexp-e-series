@@ -38,7 +38,7 @@ link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-r
 
 .Steps
 
-. From the BlueXP navigation menu, select *Storage > Canvas*.
+. From the navigation menu, select *Storage > Canvas*.
 
 . From the Canvas, select *Add Working Environment* and select *On-Premises*.
 
